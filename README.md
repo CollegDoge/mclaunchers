@@ -3,7 +3,7 @@
 Home page wireframe
 ![homepage](homepage.png)
 - - Layout: (3 rows)
-- HEADER\n
+- HEADER
 - EMPTY TEXT EMPTY
 - IMAGE IMAGE IMAGE (with text/buttons if possible)
 - TEXT TEXT TEXT
